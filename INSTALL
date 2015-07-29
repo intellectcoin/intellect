@@ -1,0 +1,9 @@
+Building Intellect
+
+See doc/readme-qt.rst for instructions on building Intellect QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Intellect.
+
+See doc/build-*.txt for instructions on building intellectd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Intellect.
